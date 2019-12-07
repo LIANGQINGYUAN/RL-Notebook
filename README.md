@@ -39,11 +39,17 @@ pip install --user --upgrade tf-agents-nightly  # depends on tf-nightly
 ## 三、中文教程
 
 ### [0.强化学习介绍](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/0_intro_rl_cn.ipynb)
+<<<<<<< HEAD
 
 ![image-20191207140652253](assets/image-20191207140652253.png)
 
 ### [1.TF-Agents训练DQN并应用于Cartpole的问题](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/1_dqn_tutorial_cn.ipynb)
 
+=======
+![image-20191207140652253](assets/image-20191207140652253.png)
+### [1.TF-Agents训练DQN并应用于Cartpole的问题](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/1_dqn_tutorial_cn.ipynb)
+
+>>>>>>> 3e73c4e67fdd8cf15c3ff56beaeb23c2c19cbf89
 ![image-20191207140738551](assets/image-20191207140738551.png)
 
 
