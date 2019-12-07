@@ -3,6 +3,16 @@
 
 原项目地址：https://github.com/tensorflow/agents
 
+
+
+本项目使用jupyter notebook作为主要开发工具，其中涉及到一些Latex公式可能无法直接在其中显示，但安装一些插件之后将会使得jupyter notebook更加强大，具体安装教程链接如下：
+
+**【神器】Noteboke好用的插件推荐**：https://mp.weixin.qq.com/s/hIDi0jwiPbaAuaWMbovRMQ
+
+![img](assets/640.png)
+
+
+
 # TF-Agents: Tensorflow中强化学习的框架
 
 ## 一、Agent（代理）
@@ -45,6 +55,9 @@ pip install --user --upgrade tf-agents-nightly  # depends on tf-nightly
 
 ### [1.TF-Agents训练DQN并应用于Cartpole的问题](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/1_dqn_tutorial_cn.ipynb)
 ![image-20191207140738551](assets/image-20191207140738551.png)
+
+
+
 
 
 
