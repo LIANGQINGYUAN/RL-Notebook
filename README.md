@@ -44,7 +44,7 @@ pip install --user --upgrade tf-agents-nightly  # depends on tf-nightly
 ![image-20191207140652253](assets/image-20191207140652253.png)
 
 ### [1.TF-Agents训练DQN并应用于Cartpole的问题](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/1_dqn_tutorial_cn.ipynb)
-
+![image-20191207140738551](assets/image-20191207140738551.png)
 
 
 
