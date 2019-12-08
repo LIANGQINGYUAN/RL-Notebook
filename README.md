@@ -58,6 +58,9 @@ pip install --user --upgrade tf-agents-nightly  # depends on tf-nightly
 
 
 
+### 2.TF-Agent中环境的使用
+
+![image-20191208112113641](assets/image-20191208112113641.png)
 
 
 
