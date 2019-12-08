@@ -58,7 +58,7 @@ pip install --user --upgrade tf-agents-nightly  # depends on tf-nightly
 
 
 
-### 2.TF-Agent中环境的使用
+### [2.TF-Agent中环境的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/2_environments_tutorial_cn.ipynb)
 
 ![image-20191208112113641](assets/image-20191208112113641.png)
 
