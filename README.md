@@ -13,7 +13,21 @@
 
 
 
-[TOC]
+
+
+**教程目录**
+
+- [TF-Agents: Tensorflow中强化学习的框架](#tf-agents--tensorflow--------)
+  * [一、Agent（代理）](#--agent----)
+  * [二、安装](#----)
+  * [三、中文教程](#------)
+    + [0.强化学习介绍](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/0_intro_rl_cn.ipynb)
+    + [1.TF-Agents训练DQN并应用于Cartpole的问题](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/1_dqn_tutorial_cn.ipynb)
+    + [2.TF-Agent中环境的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/2_environments_tutorial_cn.ipynb)
+  * [四、引用](#----)
+
+
+
 
 
 
@@ -65,6 +79,12 @@ pip install --user --upgrade tf-agents-nightly  # depends on tf-nightly
 ### [2.TF-Agent中环境的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/2_environments_tutorial_cn.ipynb)
 
 ![image-20191208112113641](assets/image-20191208112113641.png)
+
+
+
+持续更新中·····
+
+
 
 
 
