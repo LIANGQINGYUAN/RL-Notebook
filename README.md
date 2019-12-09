@@ -22,12 +22,12 @@
   * [一、Agent（代理）](#--agent----)
   * [二、安装](#----)
   * [三、中文教程](#------)
-    + [[0.强化学习介绍](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/0_intro_rl_cn.ipynb)](#-0--------https---githubcom-liangqingyuan-rl-notebook-blob-master-tf-agent-0-intro-rl-cnipynb-)
-    + [[1.TF-Agents训练DQN并应用于Cartpole的问题](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/1_dqn_tutorial_cn.ipynb)](#-1tf-agents--dqn----cartpole-----https---githubcom-liangqingyuan-rl-notebook-blob-master-tf-agent-1-dqn-tutorial-cnipynb-)
-    + [[2.TF-Agent中环境的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/2_environments_tutorial_cn.ipynb)](#-2tf-agent--------https---githubcom-liangqingyuan-rl-notebook-blob-master-tf-agent-2-environments-tutorial-cnipynb-)
-    + [[3.TF-Agent中策略的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/3_policies_tutorial_cn.ipynb)](#-3tf-agent--------https---githubcom-liangqingyuan-rl-notebook-blob-master-tf-agent-3-policies-tutorial-cnipynb-)
-    + [[4.TF-Agent中driver的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/4_drivers_tutorial_cn.ipynb)](#-4tf-agent-driver-----https---githubcom-liangqingyuan-rl-notebook-blob-master-tf-agent-4-drivers-tutorial-cnipynb-)
-    + [[5TF-Agent中Replay Buffer的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/5_replay_buffers_tutorial_cn.ipynb)](#-5tf-agent-replay-buffer-----https---githubcom-liangqingyuan-rl-notebook-blob-master-tf-agent-5-replay-buffers-tutorial-cnipynb-)
+    + [0.强化学习介绍](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/0_intro_rl_cn.ipynb)
+    + [1.TF-Agents训练DQN并应用于Cartpole的问题](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/1_dqn_tutorial_cn.ipynb)
+    + [2.TF-Agent中环境的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/2_environments_tutorial_cn.ipynb)
+    + [3.TF-Agent中策略的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/3_policies_tutorial_cn.ipynb)
+    + [4.TF-Agent中driver的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/4_drivers_tutorial_cn.ipynb)
+    + [5TF-Agent中Replay Buffer的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/5_replay_buffers_tutorial_cn.ipynb)
   * [四、引用](#----)
 
 
