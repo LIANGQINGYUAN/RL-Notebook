@@ -100,7 +100,7 @@ pip install --user --upgrade tf-agents-nightly  # depends on tf-nightly
 
 
 
-### [5TF-Agent中Replay Buffer的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/5_replay_buffers_tutorial_cn.ipynb)
+### [5.TF-Agent中Replay Buffer的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/5_replay_buffers_tutorial_cn.ipynb)
 
 ![image-20191209145949594](assets/image-20191209145949594.png)
 
