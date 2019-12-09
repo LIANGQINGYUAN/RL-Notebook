@@ -82,6 +82,26 @@ pip install --user --upgrade tf-agents-nightly  # depends on tf-nightly
 
 
 
+
+
+### [3.TF-Agent中策略的使用]()
+
+![image-20191209145628516](assets/image-20191209145628516.png)
+
+
+
+### [4.TF-Agent中driver的使用]()
+
+![image-20191209145809057](assets/image-20191209145809057.png)
+
+
+
+### [5TF-Agent中Replay Buffer的使用]()
+
+![image-20191209145949594](assets/image-20191209145949594.png)
+
+
+
 持续更新中·····
 
 
