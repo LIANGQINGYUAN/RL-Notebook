@@ -27,7 +27,7 @@
     + [2.TF-Agent中环境的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/2_environments_tutorial_cn.ipynb)
     + [3.TF-Agent中策略的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/3_policies_tutorial_cn.ipynb)
     + [4.TF-Agent中driver的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/4_drivers_tutorial_cn.ipynb)
-    + [5TF-Agent中Replay Buffer的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/5_replay_buffers_tutorial_cn.ipynb)
+    + [5.TF-Agent中Replay Buffer的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/5_replay_buffers_tutorial_cn.ipynb)
   * [四、引用](#----)
 
 
