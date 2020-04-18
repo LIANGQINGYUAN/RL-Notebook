@@ -9,7 +9,7 @@
 
 **【神器】Noteboke好用的插件推荐**：https://mp.weixin.qq.com/s/hIDi0jwiPbaAuaWMbovRMQ
 
-![img](assets/640.png)
+![img](imgs/640.png)
 
 
 
@@ -73,16 +73,16 @@ pip install --user --upgrade tf-agents-nightly  # depends on tf-nightly
 ### [0.强化学习介绍](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/0_intro_rl_cn.ipynb)
 
 
-![image-20191207140652253](assets/image-20191207140652253.png)
+![image-20191207140652253](imgs/image-20191207140652253.png)
 
 ### [1.TF-Agents训练DQN并应用于Cartpole的问题](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/1_dqn_tutorial_cn.ipynb)
-![image-20191207140738551](assets/image-20191207140738551.png)
+![image-20191207140738551](imgs/image-20191207140738551.png)
 
 
 
 ### [2.TF-Agent中环境的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/2_environments_tutorial_cn.ipynb)
 
-![image-20191208112113641](assets/image-20191208112113641.png)
+![image-20191208112113641](imgs/image-20191208112113641.png)
 
 
 
@@ -90,19 +90,19 @@ pip install --user --upgrade tf-agents-nightly  # depends on tf-nightly
 
 ### [3.TF-Agent中策略的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/3_policies_tutorial_cn.ipynb)
 
-![image-20191209145628516](assets/image-20191209145628516.png)
+![image-20191209145628516](imgs/image-20191209145628516.png)
 
 
 
 ### [4.TF-Agent中driver的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/4_drivers_tutorial_cn.ipynb)
 
-![image-20191209145809057](assets/image-20191209145809057.png)
+![image-20191209145809057](imgs/image-20191209145809057.png)
 
 
 
 ### [5.TF-Agent中Replay Buffer的使用](https://github.com/LIANGQINGYUAN/RL-Notebook/blob/master/tf-agent/5_replay_buffers_tutorial_cn.ipynb)
 
-![image-20191209145949594](assets/image-20191209145949594.png)
+![image-20191209145949594](imgs/image-20191209145949594.png)
 
 
 
